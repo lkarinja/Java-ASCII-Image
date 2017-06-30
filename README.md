@@ -1,0 +1,3 @@
+# Java ASCII Image
+This was an old project from back in highschool.
+Used to be a work-in-progress Java project for converting an image into an ASCII-Art text file... Or something like that...
